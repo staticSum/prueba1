@@ -1,0 +1,4 @@
+git init = para iniciar un poyecto
+git status = para ver los archivos agregados o no
+git add nombreDelArchivo: agregas el archivo
+
