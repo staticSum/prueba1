@@ -1,6 +1,9 @@
 git init = para iniciar un poyecto
 git status = para ver los archivos agregados o no
 git add nombreDelArchivo: agregas el archivo
+git add -A = me agrega todos los acmbios
 git checkout nombreDeLaRama = sirve para moverme entre las ramas
 git branch nombreDeLaRama = sirve para crear ramas
+git log = me muestra todos mis commits
+git merge nombreDeLaRama = sirve para fusionar las ramas
 
